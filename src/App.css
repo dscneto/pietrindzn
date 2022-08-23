@@ -1,6 +1,6 @@
 body {
-  background: rgb(51,51,51);
-  background: linear-gradient(43deg, rgba(51,51,51,1) 0%, rgba(0,0,0,1) 100%) no-repeat;
+  background-color: #000000;
+  background-image: linear-gradient(160deg, #000000 0%, #363636 100%);
 
   color: azure;
 }
