@@ -1,4 +1,4 @@
-import '.styles.css'
+import './App.css'
 
 function App() {
   return <h1>Pietrindzn</h1>
