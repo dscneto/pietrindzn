@@ -8,14 +8,12 @@ body {
   color: #fff;
 }
 
-.navbar {
-  color: #fff;
-  display: flex;
-  align-content: space-between;
-  align-items: center;
-}
 a {
   text-decoration: none;
   color: #fff;
   margin: 8px;
+}
+
+section {
+  height: 200px;
 }
