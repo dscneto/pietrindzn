@@ -3,9 +3,9 @@ import './App.css'
 function App() {
   return(
     <div>
-      <div>
+      <div className="navbar">
         <h1>Home</h1>
-        <div className="navbar">
+        <div>
           <a href="#about">Sobre</a>
           <a href="#services">Serviços</a>
           <a href="#portfolio">Portifólio</a>

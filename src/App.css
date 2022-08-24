@@ -9,7 +9,8 @@ body {
 }
 
 .navbar {
-  color: #ccc;
+  color: #fff;
   text-decoration: none;
-
+  display: flex;
+  align-content: space-between;
 }
