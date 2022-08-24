@@ -14,9 +14,7 @@ body {
   align-content: space-between;
   align-items: center;
 }
-
-a.navbar {
-  color: #fff;
-  text-decoration-line: none;
+a {
   text-decoration: none;
+  color: #fff;
 }
