@@ -7,3 +7,8 @@ body {
   background-color: #000000;
   color: #fff;
 }
+
+a.navbar {
+  color: #ccc; 
+
+}

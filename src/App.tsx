@@ -5,7 +5,7 @@ function App() {
     <div>
       <div>
         <h1>Home</h1>
-        <div>
+        <div className="navbar">
           <a href="#about">Sobre</a>
           <a href="#services">Serviços</a>
           <a href="#portfolio">Portifólio</a>
