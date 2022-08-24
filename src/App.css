@@ -10,7 +10,13 @@ body {
 
 .navbar {
   color: #fff;
-  text-decoration: none;
   display: flex;
   align-content: space-between;
+  align-items: center;
+}
+
+a.navbar {
+  color: #fff;
+  text-decoration-line: none;
+  text-decoration: none;
 }
