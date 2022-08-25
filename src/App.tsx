@@ -5,13 +5,13 @@ function App() {
     <div>
       <div className="navbar">
         <h1>Home</h1>
-        <div>
+        <nav>
           <a href="#about">Sobre</a>
           <a href="#services">Serviços</a>
           <a href="#portfolio">Portifólio</a>
           <a href="#partnerships">Parcerias</a>
           <a href="#contact">Contato</a>
-        </div>
+        </nav>
       </div>
 
       <section id="about">
