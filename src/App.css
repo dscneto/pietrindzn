@@ -3,7 +3,7 @@ body {
   color: #fff;
 }
 
-a.navbar {
+.navbar  a{
   display: flex;
   align-items: center;
   align-content: space-around;
