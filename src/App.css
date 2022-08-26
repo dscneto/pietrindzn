@@ -12,6 +12,8 @@ body {
 .navbar  a{
   text-decoration: none;
   color: #fff;
+
+  position: absolute;
   
   padding: 10px;
   margin: 8px;
@@ -19,13 +21,8 @@ body {
 }
 
 .navbar  a:hover{
-  text-decoration: none;
   color: #000;
   background-color: #fb5b04;
-  
-  padding: 10px;
-  margin: 8px;
-  border-radius: 8px;
 }
 
 section {
