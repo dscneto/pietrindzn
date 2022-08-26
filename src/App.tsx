@@ -56,7 +56,11 @@ function App() {
 
       <section id="contact">
         <h4>Contato</h4>
-        <input type="text"></input>
+        <div>
+          <input type="text"></input>
+          <input type="text"></input>
+          <button>Enviar</button>
+        </div>
       </section>
     </div>
   )
