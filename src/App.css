@@ -30,3 +30,7 @@ section {
 p {
   color: #fff;
 }
+
+textarea {
+  border-radius: 8px;
+}
