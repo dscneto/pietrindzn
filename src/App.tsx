@@ -62,6 +62,10 @@ function App() {
           <button>Enviar</button>
         </div>
       </section>
+
+      <section id="footer">
+        
+      </section>
     </div>
   )
 }
