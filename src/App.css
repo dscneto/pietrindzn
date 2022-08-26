@@ -22,15 +22,3 @@ body {
   color: #000;
   background-color: #fb5b04;
 }
-
-section {
-  height: 400px;
-}
-
-p {
-  color: #fff;
-}
-
-textarea {
-  border-radius: 8px;
-}
