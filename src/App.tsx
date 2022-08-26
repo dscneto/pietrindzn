@@ -57,8 +57,6 @@ function App() {
       <section id="contact">
         <h4>Contato</h4>
         <input type="text"></input>
-        <input type="textarea"></input>
-        <input type="button">Enviar</input>
       </section>
     </div>
   )
