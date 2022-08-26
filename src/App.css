@@ -5,6 +5,7 @@ body {
 
 .navbar {
   display: flex;
+  position: absolute;
   align-items: center;
   align-content: space-around;
 }
@@ -12,9 +13,6 @@ body {
 .navbar  a{
   text-decoration: none;
   color: #fff;
-
-  display: block;
-  position: absolute;
   
   padding: 10px;
   margin: 8px;
