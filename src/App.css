@@ -22,3 +22,9 @@ body {
   color: #000;
   background-color: #fb5b04;
 }
+
+#footer {
+  color: #000;
+  background-color: #fff;
+  align-items: center;
+}

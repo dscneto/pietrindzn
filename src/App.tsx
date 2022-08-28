@@ -64,7 +64,7 @@ function App() {
       </section>
 
       <section id="footer">
-        
+        <p>Produzido por Glitch</p>  
       </section>
     </div>
   )
